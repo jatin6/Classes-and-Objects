@@ -1,0 +1,25 @@
+"""
+Classes:
+
+A class is a collecition of functions and values
+For example, a class called "Student" can have values:
+	- Name		(String)
+	- Age		(Integer)
+	- Address	(String)
+	- Number	(String)
+	- Grades	(List of strings)
+"Student" can contain functions such as:
+	- print age
+	- print address
+	-calculate average grade
+	
+Objects:
+
+An instance of a class is called an object
+For example, student 'Alex' would have an object and that object would contain:
+	- "Alex"
+	- 15
+	- "123 Main Street"
+	- "0123456789"
+	- ["A", "B", "C", "A"]
+"""
